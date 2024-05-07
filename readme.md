@@ -33,7 +33,7 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 1. Para utilizar este proyecto debes clonar este repositorio en tu máquina, utilizando git.
 
 ```
-git clone git@github.com:jesbell/bancoSolar.git
+git clone git@github.com:jesbell/dg_collage_imagenes.git
 ```
 
 2. Una vez allí puedes abrir el proyecto donde te sea más comodo. Pero dentro de la carpeta del proyecto deberas realizar las instalación de las dependencias, con el siguiente comando.
@@ -50,7 +50,7 @@ node index.js
 
 ## Soporte
 
-Si tienes algún problema o sugerencia, por favor abre un problema [aquí](https://github.com/jesbell/bancoSolar/issues).
+Si tienes algún problema o sugerencia, por favor abre un problema [aquí](https://github.com/jesbell/dg_collage_imagenes/issues).
 
 ## Versionado  📌
 
